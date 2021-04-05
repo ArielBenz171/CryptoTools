@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+.link{
+    margin-right: 30px;
+    float: right;
+    text-decoration: none;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 56px;
+    color: #FFFFFF;
+
+}
+
+.Navbar{
+    background-color:#2136F2;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    
+}
+.navbarTitle{
+    /* display:inline-block; */
+    font-family: 'Roboto Mono';
+    font-size: 50px;
+    line-height: 56px;
+    color: #FFFFFF;
+    text-decoration: none;
+}

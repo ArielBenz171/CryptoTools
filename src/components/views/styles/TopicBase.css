@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+
+.title{
+    text-align: center;
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 120px;
+    line-height: 158px;
+    margin: 0px;
+}
+
+.descript{
+    text-align: center;
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    margin: 50px;
+}
+
+.subs{
+    margin: 150px;
+}
+
+.links{
+    text-align: center;
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 32px;
+    margin: 50px;
+    text-decoration: none;
+}
+
+.end{
+    text-align: center;
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+    margin: 150px; 
+}
