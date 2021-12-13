@@ -10,7 +10,7 @@ const Home = () => {
             CryptoTools
         </div>
         <div className = "subtitle">
-            The base for all Cryptology & Cryptanalysis Tools
+            The base for Cryptology & Cryptanalysis Tools
         </div>
         <div className = "description">
             Cryptography, or cryptology, is the practice and study of techniques for secure communication

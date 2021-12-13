@@ -1,7 +1,7 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 import { AllPlayersContainer } from '../containers';
-import { Home, Ciphers, NT, Algorithms, Others} from '../views';
+import { Home, Ciphers, NT, Algorithms, Others, cCipher} from '../views';
 
 const RoutesView = () => {
   return (
@@ -12,6 +12,7 @@ const RoutesView = () => {
       <Route exact path = "/nt" component = {NT} />
       <Route exact path = "/algorithms" component = {Algorithms} />
       <Route exact path = "/others" component = {Others} />
+      <Route exact path = "/cCipher" component = {cCipher} />
     </Switch>
   )
 }

@@ -7,6 +7,7 @@
     font-weight: normal;
     font-size: 120px;
     line-height: 158px;
+    margin: 0px;
 }
 
 .descript{
@@ -16,21 +17,38 @@
     font-weight: normal;
     font-size: 16px;
     line-height: 40px;
+    margin: 50px;
 }
 
-.links{
-    display: block;
-    text-align: center;
+.vertical {
+    border-left: 3px solid #2136F2;
+    height: 225px;
+    position: absolute;
+    top: 500px;
+    left: 50%;
+}
+
+.input {
     font-family: Roboto Mono;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
-    line-height: 32px;
-    text-decoration: none;
+    line-height: 40px;
+    margin-left: 25%;
+}
+
+.output {
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+    margin-left: 55%;
+    position: absolute;
+    top: 533px;
 }
 
 .end{
-    text-align: center;
     font-family: Roboto Mono;
     font-style: normal;
     font-weight: normal;

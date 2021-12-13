@@ -19,11 +19,11 @@ const Algorithms = () => {
             information-theoretically secure schemes that provably cannot be broken even with unlimited computing power, such as the one-time pad, 
             but these schemes are much more difficult to use in practice than the best theoretically breakable but computationally secure schemes. (Wikipedia)
         </div>
-        <div className = "subs">
+        <div className = "links">
             <Link to = "/EAlgo" className = "links">Euclidian Algorithm </Link>
-            <Link to = "/EEAlgo" className = "links">Extended Euclidian Algorithm</Link>
-            <Link to = "/FPA" className = "links">Fast Powered Algorithm</Link>
-            <Link to = "/BGA" className = "links">Babysteps-GiantsSteps Algorithm</Link>
+            <Link to = "/EEAlgo" className = "links">Extended Euclidian Algorithm </Link>
+            <Link to = "/FPA" className = "links">Fast Powered Algorithm </Link>
+            <Link to = "/BGA" className = "links">Babysteps-GiantsSteps Algorithm </Link>
         </div>
         <div className = "end">
             Powered by Javascript, React, HTML, & CSS.

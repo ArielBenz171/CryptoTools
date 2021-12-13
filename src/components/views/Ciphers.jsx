@@ -16,10 +16,10 @@ const Ciphers = () => {
         crucial role in modern technology. Technologies involving communication (including the internet, mobile phones, digital television or even 
         ATMs) rely on ciphers in order to maintain both security and privacy. (practicalcryptography)
         </div>
-        <div className = "subs">
+        <div className = "links">
             <Link to = "/hillCipher" className = "links">Hill Cipher </Link>
-            <Link to = "/subCipher" className = "links">Substituition Cipher</Link>
-            <Link to = "/cCipher" className = "links">Caesar Cipher</Link>
+            <Link to = "/subCipher" className = "links">Substituition Cipher </Link>
+            <Link to = "/cCipher" className = "links">Caesar Cipher </Link>
         </div>
         <div className = "end">
             Powered by Javascript, React, HTML, & CSS.

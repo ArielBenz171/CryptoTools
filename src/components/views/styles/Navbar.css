@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+
 .link{
     margin-right: 30px;
     float: right;
@@ -6,7 +7,7 @@
     font-family: 'Roboto Mono';
     font-style: normal;
     font-weight: 300;
-    font-size: 30px;
+    font-size: 20px;
     line-height: 56px;
     color: #FFFFFF;
 
@@ -16,7 +17,7 @@
     background-color:#2136F2;
     height: 60px;
     left: 0px;
-    top: 0px;
+    top: 0%;
     
 }
 .navbarTitle{

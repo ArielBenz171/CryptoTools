@@ -16,7 +16,7 @@ const Others = () => {
         key pairs depends on cryptographic algorithms which are based on mathematical problems termed one-way functions. Effective 
         security requires keeping the private key private; the public key can be openly distributed without compromising security. (Wikipedia)
         </div>
-        <div className = "subs">
+        <div className = "links">
             <Link to = "/CRT" className = "links">Chinese Remainder Theorm </Link>
             <Link to = "/Elgamel" className = "links">Elgamel Public Key Cryptosystem</Link>
             <Link to = "/DF" className = "links">Diffie-Hellman Key Exchange</Link>

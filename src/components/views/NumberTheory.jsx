@@ -17,11 +17,11 @@ const NumberTheory = () => {
          key cryptography, such as the RSA algorithm. Public key cryptography in turn enables many technologies we take for granted, such as 
          the ability to make secure online transactions. (John D. Cook)
         </div>
-        <div className = "subs">
-            <Link to = "/gcd" className = "links">Greatest Common Factor</Link>
-            <Link to = "/gcdEq" className = "links">Greatest Common Factor by Equation</Link>
-            <Link to = "/modCheck" className = "links">Modulous Check</Link>
-            <Link to = "/modInverse" className = "links">Modulous Inverse</Link>
+        <div className = "links">
+            <Link to = "/gcd" className = "links">Greatest Common Factor </Link>
+            <Link to = "/gcdEq" className = "links">Greatest Common Factor by Equation </Link>
+            <Link to = "/modCheck" className = "links">Modulous Check </Link>
+            <Link to = "/modInverse" className = "links">Modulous Inverse </Link>
         </div>
         <div className = "end">
             Powered by Javascript, React, HTML, & CSS.

@@ -5,3 +5,4 @@ export { default as Ciphers} from './Ciphers';
 export { default as NT} from './NumberTheory';
 export { default as Algorithms} from './Algorithms';
 export { default as Others} from './Others';
+export { default as cCipher} from './CaesarCipher';
